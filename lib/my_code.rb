@@ -20,6 +20,6 @@ end
   while counter < array.length
     array1 = yield(array1, array[counter])
     counter += 1
-  end
-  new_a
+end
+array1
 end
